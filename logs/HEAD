@@ -1,0 +1,70 @@
+0000000000000000000000000000000000000000 555a887a11c0b6bd5bcd67ad67edb6ac0ca7c6bb root <root@db01.schnellno.de> 1632226372 +0200	clone: from https://github.com/varvarasd/ethernity-cloud-website.git
+555a887a11c0b6bd5bcd67ad67edb6ac0ca7c6bb 555a887a11c0b6bd5bcd67ad67edb6ac0ca7c6bb Florin <florin@db01.schnellno.de> 1632390792 +0200	reset: moving to HEAD
+555a887a11c0b6bd5bcd67ad67edb6ac0ca7c6bb 63824d7156ed64c40be1e08b46471f5031f4cc74 Florin <florin@db01.schnellno.de> 1632390796 +0200	checkout: moving from main to ETH-PS
+63824d7156ed64c40be1e08b46471f5031f4cc74 3983b7f2c1047fc91683070394c6fb3fc6d4a101 Florin <florin@db01.schnellno.de> 1632391220 +0200	commit: Uglified
+3983b7f2c1047fc91683070394c6fb3fc6d4a101 3983b7f2c1047fc91683070394c6fb3fc6d4a101 Florin <florin@db01.schnellno.de> 1632392186 +0200	reset: moving to HEAD
+3983b7f2c1047fc91683070394c6fb3fc6d4a101 96cf3b04ec8bfb0e519a9f6eb71409435c44797f Florin <florin@db01.schnellno.de> 1632392218 +0200	commit: Uglified
+96cf3b04ec8bfb0e519a9f6eb71409435c44797f 7a7a41ca7b95312b949987e6cbb72c62ec46c534 Florin <florin@db01.schnellno.de> 1634067187 +0200	commit: added ignore file
+7a7a41ca7b95312b949987e6cbb72c62ec46c534 252111b18997f2be419386982107fa8e537c4352 Florin <florin@db01.schnellno.de> 1634067369 +0200	pull: Merge made by the 'recursive' strategy.
+252111b18997f2be419386982107fa8e537c4352 60a34302077df2e96d6e59cbbc6055bbf726a7b2 Florin <florin@db01.schnellno.de> 1634067567 +0200	checkout: moving from ETH-PS to ETH-PS-2-LOGIN
+60a34302077df2e96d6e59cbbc6055bbf726a7b2 651cdc1a705c62494ebecfd07d3fca8ce4457d72 Florin <florin@db01.schnellno.de> 1634070114 +0200	commit: Updated company name in footer
+651cdc1a705c62494ebecfd07d3fca8ce4457d72 39aed5e815f137ed9f57c926e2f5c787bf285e9c Florin <florin@db01.schnellno.de> 1634071301 +0200	pull: Merge made by the 'recursive' strategy.
+39aed5e815f137ed9f57c926e2f5c787bf285e9c fa0e194d83f2652775106624d465071ecfa33102 Florin <florin@db01.schnellno.de> 1634071407 +0200	commit: Added minified js, profitbot.svg, tsFormHandler.js
+fa0e194d83f2652775106624d465071ecfa33102 90dacc0961ab099f18f973d0bb59637eea7d93aa Florin <florin@db01.schnellno.de> 1634071448 +0200	commit: Added minified js, profitbot.svg, tsFormHandler.js
+90dacc0961ab099f18f973d0bb59637eea7d93aa b000b6078f5009872072900ec84ebb31259ebb02 Florin <florin@db01.schnellno.de> 1634071680 +0200	pull: Fast-forward
+b000b6078f5009872072900ec84ebb31259ebb02 62d6c213ccbadf9faf91d358585caa9609084f60 Florin <florin@db01.schnellno.de> 1634241221 +0200	commit: matomo ignore
+62d6c213ccbadf9faf91d358585caa9609084f60 70437a153cf850cd094a79b649a8e14ded9e9ecb Florin <florin@db01.schnellno.de> 1634241684 +0200	commit (merge): merge and ignore
+70437a153cf850cd094a79b649a8e14ded9e9ecb 8df6b3f6caa7906bb96623bc4de21ac6066431b2 Florin <florin@db01.schnellno.de> 1634241879 +0200	pull: Fast-forward
+8df6b3f6caa7906bb96623bc4de21ac6066431b2 ead82b10253b3708a3648fd3a6af61bbe488c52f Florin <florin@db01.schnellno.de> 1634246029 +0200	pull: Fast-forward
+ead82b10253b3708a3648fd3a6af61bbe488c52f 7d5bfd0fe5a134f40d0076db3a430848afd84044 Florin <florin@db01.schnellno.de> 1634246272 +0200	pull: Fast-forward
+7d5bfd0fe5a134f40d0076db3a430848afd84044 eebc07e6359162bcc5c87e03d3b90959f1838392 Florin <florin@db01.schnellno.de> 1634249934 +0200	pull: Fast-forward
+eebc07e6359162bcc5c87e03d3b90959f1838392 08549c7deda874b5079983a85ba21fa7be48b733 Florin <florin@db01.schnellno.de> 1634315929 +0200	pull: Fast-forward
+08549c7deda874b5079983a85ba21fa7be48b733 b4649f933fe92260d99c12d838c0216521c4422c Florin <florin@db01.schnellno.de> 1634575127 +0200	pull: Fast-forward
+b4649f933fe92260d99c12d838c0216521c4422c a90068856e02269e5dbbbceaabcc52790dee1d72 Florin <florin@db01.schnellno.de> 1634667843 +0200	pull: Fast-forward
+a90068856e02269e5dbbbceaabcc52790dee1d72 46498fd2caa405431c99a7ab0838d690449c14e1 Florin <florin@db01.schnellno.de> 1634981140 +0200	commit: updated whitepaper
+46498fd2caa405431c99a7ab0838d690449c14e1 ab6323a200de3ef876a7fc44b28b39f3dd18f47a Florin <florin@db01.schnellno.de> 1634981176 +0200	pull: Merge made by the 'recursive' strategy.
+ab6323a200de3ef876a7fc44b28b39f3dd18f47a beab40c24e2c1895176f581b00a53603aa46c109 Florin <florin@db01.schnellno.de> 1634991046 +0200	pull: Fast-forward
+beab40c24e2c1895176f581b00a53603aa46c109 cd48f939dfff43da5c31bb189054a789b3ad5a34 Florin <florin@db01.schnellno.de> 1635108374 +0200	checkout: moving from ETH-PS-2-LOGIN to ETH-PS-3
+cd48f939dfff43da5c31bb189054a789b3ad5a34 73ff16bf97eee911438577186ced3e52412a5cb4 Florin <florin@db01.schnellno.de> 1635156000 +0200	pull: Fast-forward
+73ff16bf97eee911438577186ced3e52412a5cb4 d1d4417a27d156cf7da10bc3210ec04d8cac8d8f Florin <florin@db01.schnellno.de> 1635454141 +0200	pull: Fast-forward
+d1d4417a27d156cf7da10bc3210ec04d8cac8d8f 628bf903beb6574edd0ae655ad3093961634aebb Florin <florin@db01.schnellno.de> 1635774856 +0100	pull: Fast-forward
+628bf903beb6574edd0ae655ad3093961634aebb 82c5474cbb31f0ffd163d9708a147df17c93aca2 Florin <florin@db01.schnellno.de> 1635881965 +0100	pull: Fast-forward
+82c5474cbb31f0ffd163d9708a147df17c93aca2 664c1e74a309fb8214a46942556dcae0a96b2904 Florin <florin@db01.schnellno.de> 1636025348 +0100	pull: Fast-forward
+664c1e74a309fb8214a46942556dcae0a96b2904 ac40edce6e006167791d6d13c567a99e5bd252a7 Florin <florin@db01.schnellno.de> 1636122039 +0100	pull: Fast-forward
+ac40edce6e006167791d6d13c567a99e5bd252a7 de7031b6478968b22d42a481f6e4cb20527f713c Florin <florin@db01.schnellno.de> 1636502524 +0100	checkout: moving from ETH-PS-3 to ETH-PS-3-DEV
+de7031b6478968b22d42a481f6e4cb20527f713c a4c36f2832cfb879f1e1b053b08c1cdf20285a1e Florin <florin@db01.schnellno.de> 1636506389 +0100	pull: Fast-forward
+a4c36f2832cfb879f1e1b053b08c1cdf20285a1e 46d3d454c2ff058d95abe992ccab3ca89d881fc2 Florin <florin@db01.schnellno.de> 1636506761 +0100	pull: Fast-forward
+46d3d454c2ff058d95abe992ccab3ca89d881fc2 25390a1488d895d19082f42047e11b7841678338 Florin <florin@db01.schnellno.de> 1636506856 +0100	pull: Fast-forward
+25390a1488d895d19082f42047e11b7841678338 e85085a417184f089ec5243bf2acec831ab23acc Florin <florin@db01.schnellno.de> 1636527571 +0100	pull: Fast-forward
+e85085a417184f089ec5243bf2acec831ab23acc 15d0c8333444f472baaa4af8d11ee2a5090692c0 Florin <florin@db01.schnellno.de> 1636536376 +0100	pull: Fast-forward
+15d0c8333444f472baaa4af8d11ee2a5090692c0 6e5e98433efc0bf2cae882413a1c55a5bd327abf Florin <florin@db01.schnellno.de> 1636537982 +0100	pull: Fast-forward
+6e5e98433efc0bf2cae882413a1c55a5bd327abf 39c351b107d3afff5f04867a6568aa7755dfbfab Florin <florin@db01.schnellno.de> 1636538656 +0100	pull: Fast-forward
+39c351b107d3afff5f04867a6568aa7755dfbfab cbfdb0902fc8c889a36db403d31e511f73050ffd Florin <florin@db01.schnellno.de> 1636539947 +0100	pull: Fast-forward
+cbfdb0902fc8c889a36db403d31e511f73050ffd 198a507aaee4f1b2b7e0c13f67995b7ee96a9f42 Florin <florin@db01.schnellno.de> 1636570409 +0100	pull: Fast-forward
+198a507aaee4f1b2b7e0c13f67995b7ee96a9f42 0415a5dfac0af0e515ab452e0c35d2b78b2bdac7 root <root@db01.schnellno.de> 1636740862 +0100	checkout: moving from ETH-PS-3-DEV to ETH-PS-3-DEV-UPDATE
+0415a5dfac0af0e515ab452e0c35d2b78b2bdac7 6229c20dfad398cc654ccc7bece94b69b53527db root <root@db01.schnellno.de> 1636742986 +0100	pull: Fast-forward
+6229c20dfad398cc654ccc7bece94b69b53527db bc82ab30512ee6d2b5ddc6e4e7eee9c540e8fdc6 root <root@db01.schnellno.de> 1636745030 +0100	pull: Fast-forward
+bc82ab30512ee6d2b5ddc6e4e7eee9c540e8fdc6 d0eac8ec82a3347495d4df1485f8a1f4bdba71d4 root <root@db01.schnellno.de> 1636745524 +0100	pull: Fast-forward
+d0eac8ec82a3347495d4df1485f8a1f4bdba71d4 1c10ed2b1789f7c6109cc892e208a73ec24cd7f1 root <root@db01.schnellno.de> 1636747319 +0100	pull: Fast-forward
+1c10ed2b1789f7c6109cc892e208a73ec24cd7f1 0a2827f6bf30c88977b09692d2a1a213815cbcd5 root <root@db01.schnellno.de> 1636752712 +0100	pull: Fast-forward
+0a2827f6bf30c88977b09692d2a1a213815cbcd5 b152e6b11645857eac10aa710d729ea85ef6e0e3 root <root@db01.schnellno.de> 1636758512 +0100	pull: Fast-forward
+b152e6b11645857eac10aa710d729ea85ef6e0e3 0a2827f6bf30c88977b09692d2a1a213815cbcd5 Florin <florin@db01.schnellno.de> 1636759684 +0100	checkout: moving from ETH-PS-3-DEV-UPDATE to 0a2827f6bf30c88977b09692d2a1a213815cbcd5
+0a2827f6bf30c88977b09692d2a1a213815cbcd5 b152e6b11645857eac10aa710d729ea85ef6e0e3 root <root@db01.schnellno.de> 1636833511 +0100	checkout: moving from 0a2827f6bf30c88977b09692d2a1a213815cbcd5 to ETH-PS-3-DEV-UPDATE
+b152e6b11645857eac10aa710d729ea85ef6e0e3 3d35ed5095670273a598c4ec9980dfc4a898b960 root <root@db01.schnellno.de> 1636833520 +0100	pull: Fast-forward
+3d35ed5095670273a598c4ec9980dfc4a898b960 0c0ddcd00c125629044ed9f6cf7da167e571c448 Florin <florin@db01.schnellno.de> 1637480037 +0100	pull: Fast-forward
+0c0ddcd00c125629044ed9f6cf7da167e571c448 00d89cac7f8acfb2dcc49c2cd70dec80e64e425e Florin <florin@db01.schnellno.de> 1637558570 +0100	pull: Fast-forward
+00d89cac7f8acfb2dcc49c2cd70dec80e64e425e af85a66b3573b8bc5f42a9aeb70187595c4199a6 Florin <florin@db01.schnellno.de> 1637651859 +0100	pull: Fast-forward
+af85a66b3573b8bc5f42a9aeb70187595c4199a6 19cc9ec9c40908207db3ca6da19d2ba7395945b4 Florin <florin@db01.schnellno.de> 1637661558 +0100	pull: Fast-forward
+19cc9ec9c40908207db3ca6da19d2ba7395945b4 781c091fd06b750e352c528d965e6a0d29af8050 Florin <florin@db01.schnellno.de> 1637661995 +0100	pull: Fast-forward
+781c091fd06b750e352c528d965e6a0d29af8050 0b28041d9c948751973b970f70dae1251f5fa6f4 Florin <florin@db01.schnellno.de> 1637708833 +0100	pull: Fast-forward
+0b28041d9c948751973b970f70dae1251f5fa6f4 e212dbbdf2988b9c753a82619294cfbb302fccf9 root <root@db01.schnellno.de> 1637742516 +0100	checkout: moving from ETH-PS-3-DEV-UPDATE to ETH-PS-3-DEV-UPDATE-ENDED
+e212dbbdf2988b9c753a82619294cfbb302fccf9 275697ca983b648051cc34bff50714397abad4cf Florin <florin@db01.schnellno.de> 1637778451 +0100	pull: Fast-forward
+275697ca983b648051cc34bff50714397abad4cf 6744fe6a0862f57adda2a0fcd36f18dcbb4360af Florin <florin@db01.schnellno.de> 1637788574 +0100	pull: Fast-forward
+6744fe6a0862f57adda2a0fcd36f18dcbb4360af 2b18eae25d65c64d5861ea45b4d59bdb76108884 root <root@db01.schnellno.de> 1637860909 +0100	pull: Fast-forward
+2b18eae25d65c64d5861ea45b4d59bdb76108884 13c57d4d63f6ffc8b75dfcd807002f5e5df14312 Florin <florin@db01.schnellno.de> 1637910325 +0100	pull: Fast-forward
+13c57d4d63f6ffc8b75dfcd807002f5e5df14312 26bbf5ef76c9b817f041ab6f06910a23f0266eda Florin <florin@db01.schnellno.de> 1637930638 +0100	pull: Fast-forward
+26bbf5ef76c9b817f041ab6f06910a23f0266eda 9b51ece1d709e9f0d98fbe2b16818344ac044858 Florin <florin@db01.schnellno.de> 1641300283 +0100	pull: Fast-forward
+9b51ece1d709e9f0d98fbe2b16818344ac044858 9298b61707647f62a0910e9215c18ae72f0d4e40 Florin <florin@db01.schnellno.de> 1641574109 +0100	pull: Fast-forward
+9298b61707647f62a0910e9215c18ae72f0d4e40 de0cc60dd26d909e54ef52157e5b0d2861961524 Florin <florin@db01.schnellno.de> 1643107093 +0100	pull: Fast-forward
+de0cc60dd26d909e54ef52157e5b0d2861961524 2c5b9de36022b7d5362ea911a044453301ed374b Florin <florin@db01.schnellno.de> 1643830913 +0100	pull: Fast-forward
+2c5b9de36022b7d5362ea911a044453301ed374b 714bb4e88808a0b7fcb90f794f34e8e109cac852 Florin <florin@db01.schnellno.de> 1644416722 +0100	pull: Fast-forward
